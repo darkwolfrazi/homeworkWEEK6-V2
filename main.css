@@ -1,0 +1,67 @@
+h1{
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+font-size: 3em;
+}
+
+h2{
+    border: double 10px blue; 
+    background: red;
+    color: black;
+    margin-bottom: .75em;
+}
+
+.title-1{
+    font-size: 30px;
+    margin: .75em;
+}
+
+.text-1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .75em;
+    padding: .75em;
+    text-indent: 1em;
+}
+
+.text-2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .75em;
+    padding: .75em;
+}
+
+.text-3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .75em;
+    padding: .75em;
+}
+
+h3{
+    border: double 10px yellow;
+    background: black;
+    color: antiquewhite;
+}
+
+.text-4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    padding: .75em;
+    text-indent: 1em;
+}
+
+.text-5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    padding: 1em;
+}
+
+.text-6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    padding: 1em;
+}
+
+h4{
+    border: double 10px green;
+    background: tan;
+    color: black
+}
