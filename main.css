@@ -9,6 +9,7 @@ h2{
     background: red;
     color: black;
     margin-bottom: .75em;
+    
 }
 
 .title-1{
@@ -39,6 +40,7 @@ h3{
     border: double 10px yellow;
     background: black;
     color: antiquewhite;
+    
 }
 
 .text-4{
@@ -63,7 +65,8 @@ h3{
 h4{
     border: double 10px green;
     background: tan;
-    color: black
+    color: black;
+    
 }
 
 .text-7{
@@ -83,4 +86,9 @@ h4{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.1em;
     padding: 1em;
+}
+
+body{
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(213,10,10,1) 51%, rgba(0,97,255,1) 100%);
 }
